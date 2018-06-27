@@ -1,0 +1,28 @@
+{
+  "name": "burger11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedvogel93/Burger11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nedvogel93/Burger11/issues"
+  },
+  "homepage": "https://github.com/nedvogel93/Burger11#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0",
+    "orm": "^5.0.1",
+    "parser": "^0.1.4",
+    "require": "^2.4.20"
+  }
+}
